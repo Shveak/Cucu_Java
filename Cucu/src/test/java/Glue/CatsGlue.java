@@ -1,3 +1,5 @@
+package Glue;
+
 import cucumber.api.java8.En;
 
 public class CatsGlue implements En {
